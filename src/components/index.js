@@ -1,0 +1,1 @@
+export { default as MainFooter } from "./components/MainFooter.vue";
